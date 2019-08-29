@@ -1,14 +1,4 @@
 {
-        "0": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "1": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "2": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "3": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "4": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "5": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "6": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "7": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "8": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "9": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "10": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" },
-        "11": { "artist": "The Residents", "album": "Meet the Residents", "rDate": "01/04/1974" }
-    }
+        "0": { "cpu": "AMD Ryzen 5 2400G", "clock": "1250", "rDate": "12/02/2018", "price": "130" },
+        "1": { "cpu": "AMD Ryzen 3 2200G", "clock": "1100", "rDate": "12/02/2018", "price": "100" },
+}
